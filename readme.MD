@@ -2,6 +2,10 @@
 
 A sample app that uses the Imgur API, allowing the user to enter a search query, scroll through thumbnails of the results, and click on an individual result to see it full-screen.
 
+![Screenshot](./sample_screenshot.png)
+
+### Features:
+
 - MVVM app architecture
 - Hilt for dependency injection
 - Paging Library for fetching paged data
